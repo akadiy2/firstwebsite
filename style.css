@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #bc8826;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+h1,h2 {
+    color: #552f2f;
+    text-align: center
+}
+
+h1 {
+    font-size: 40px;  
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.head_text {
+    text-align: center
+}
+
+.main_text {
+    text-align: justify
+}
+
+
